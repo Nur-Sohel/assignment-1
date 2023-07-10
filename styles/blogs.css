@@ -1,0 +1,44 @@
+/* Section 1 styles */
+.section-1-container{
+    display: flex;
+    justify-content: space-around;
+background: rgba(229, 84, 115, 0.10);
+gap: 200px;
+}
+.sec-1-title{
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-weight: 800;
+margin-right: 750px;
+}
+.section-1{
+    /* margin: 180px 240px; */
+    margin-top: 180px;
+    margin-left: 270px;
+}
+.sec-1-descrition{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-top: 32px;
+margin-right: 800px;
+}
+.but-1{
+    border-radius: 8px;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+}
+.sec-1-image{
+    width: 635px;
+height: 800px;
+flex-shrink: 0;
+margin-top: 50px;
+margin-right: 240px;
+}
